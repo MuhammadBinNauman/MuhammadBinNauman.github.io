@@ -16,6 +16,13 @@ body{
 }
 
 img{  
+}
+img:hover { 
+  outline: 3px solid black; 
+} 
+
+    
+.icons{
     max-height: 100%;  
     max-width: 100%; 
     position: absolute;  
@@ -24,12 +31,56 @@ img{
     left: 0;  
     right: 0;  
     margin: auto;
-    border-radius: 50%;
-}
-    
-.icons{
     width: 100px;
     height: 100px;
     margin: 20px;
     position: relative;
+    border-radius: 50%;
+}
+
+.title{
+    
+    position: absolute;
+    left: 650px;
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+    color: floralwhite;
+    font-family: sans-serif;
+}
+
+.main{
+    position: absolute;
+    left: 250px;
+    top: 300px;
+    text-align: left;
+    font-size: 20px;
+    color: floralwhite;
+    width: 700px;
+    font-family: sans-serif;
+    
+}
+
+.main2{
+    position: absolute;
+    right: 100px;
+    top: 700px;
+    text-align: left;
+    font-size: 20px;
+    color: floralwhite;
+    width: 700px;
+    font-family: sans-serif;
+}
+
+.photo1{
+    position: absolute;
+    right: 100px;
+    top: 250px;
+    
+}
+.photo2{
+    position: absolute;
+    left: 250px;
+    top: 700px;
+    
 }

@@ -2,13 +2,11 @@ body{
 	margin: 0;
 	padding: 0;
     background-color: #ffbb00;
-    //background-image: url(film2.jpg);
-    background-repeat:round;
-    background-position: center;
-    mix-blend-mode:lighten;
 }
 
-
+img:hover { 
+  outline: 3px solid black; 
+} 
 a:link {
   color: white;
   text-decoration: none;
@@ -66,8 +64,12 @@ img{
     font-style: italic;
 }
 
+/*
 .border1{
- 
+    position: absolute;
+   mix-blend-mode: multiply;
+    border-radius: 100%;
+    top: 100px;
 }
 
 .border2{
@@ -78,4 +80,4 @@ img{
 }
 .border4{
     
-}
+}*/
