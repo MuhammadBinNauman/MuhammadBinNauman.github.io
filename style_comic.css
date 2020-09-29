@@ -1,0 +1,35 @@
+body{
+	margin: 0;
+	padding: 0;
+    background-color: #ffbb00;
+}
+
+.TopBanner{
+    position: relative;
+    font-size: 65px;
+    color: white;
+    background-color: #5e4212;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+}
+
+img{  
+    max-height: 100%;  
+    max-width: 100%; 
+    position: absolute;  
+    top: 0;  
+    bottom: 0;  
+    left: 0;  
+    right: 0;  
+    margin: auto;
+    border-radius: 50%;
+}
+    
+.icons{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    position: relative;
+
+}

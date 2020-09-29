@@ -1,0 +1,84 @@
+body{
+	margin: 0;
+	padding: 0;
+    background-color: #ffbb00;
+    background-image: url(film3.jpg);
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+a:visited {
+  color: red;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  text-decoration: underline;
+}
+.TopBanner{
+    position: relative;
+    bottom: 65px;
+    font-size: 65px;
+    color: white;
+    background-color: #5e4212;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+}
+
+.Start{
+    position: relative;
+    text-align: center;
+    top: 50px;
+	font-size: 50px;
+	color: red;
+    font-style: normal;
+    font-weight: bold;
+    background-image: url(Film%20icon.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+.Comic{
+    position: absolute;
+    top: 400px;
+    left: 200px;
+    text-align: left;
+    font-size: 55px;
+    color: white;
+    font-weight: bold; 
+    background-image: url(comic.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+    mix-blend-mode: darken;
+}
+
+.Collab{
+    position: relative;
+    top: 175px;
+    right: 200px;
+    text-align: right;
+    font-size: 55px;
+    color: white;
+    font-weight: bold;
+    background-image: url(Collaboration%20home.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 400px,400px;
+    mix-blend-mode: darken;
+}
+
+.About{
+    position: relative;
+    top: 425px;
+    text-align: center;
+    font-size: 55px;
+    color: white;
+    font-weight: bold;
+}

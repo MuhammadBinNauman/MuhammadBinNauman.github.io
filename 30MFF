@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>30MFF</title>
+		<link rel="stylesheet" type="text/css" href="style.css" />
+	</head>
+	<body>
+
+		<div class="important">
+			<p>
+				What I write here is crucial.
+			</p>
+		</div>
+		<div class="trivial">
+			<p>
+				What I write here is not as crucial.
+			</p>
+		</div>
+	</body>
+</html>

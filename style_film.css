@@ -1,0 +1,81 @@
+body{
+	margin: 0;
+	padding: 0;
+    background-color: #ffbb00;
+    //background-image: url(film2.jpg);
+    background-repeat:round;
+    background-position: center;
+    mix-blend-mode:lighten;
+}
+
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+.TopBanner{
+    position: relative;
+    font-size: 65px;
+    color: white;
+    background-color: #5e4212;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+}
+
+img{  
+    max-height: 100%;  
+    max-width: 100%; 
+    position: absolute;  
+    border-radius: 50%;
+}
+.video{
+    position: absolute;
+    left: 250px;
+}
+.icons{
+    max-height: 100%;  
+    max-width: 100%; 
+    position: absolute;  
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    position: relative;
+
+}
+
+.TopBanner{
+    position: relative;
+    font-size: 65px;
+    color: white;
+    background-color: #5e4212;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+}
+
+.border1{
+ 
+}
+
+.border2{
+    
+}
+.border3{
+    
+}
+.border4{
+    
+}
