@@ -61,14 +61,25 @@ img:hover {
 }
 
 .placeholder{
-    
+    display: none;
     position: absolute;
     left: 250px;
     top: 250px;
 }
 
 .placeholder2{
-    
+    display: none;
+    position: absolute;
+    left: 250px;
+    top: 600px;
+}
+.myarrow{
+    position: absolute;
+    left: 250px;
+    top: 250px;
+}
+
+.myarrow2{
     position: absolute;
     left: 250px;
     top: 600px;
