@@ -1,83 +1,35 @@
 body{
 	margin: 0;
 	padding: 0;
-    background-color: #ffbb00;
+    background-color: #ffbb00;  /* adding the background color to the page */
 }
 
 img:hover { 
-  outline: 3px solid black; 
+  outline: 3px solid black;     /*when the mouse hovers over the image highlight it by making its borders pronounced */
 } 
-a:link {
-  color: white;
-  text-decoration: none;
-}
-
-a:visited {
-  color: white;
-  text-decoration: none;
-}
-
-a:hover {
-  color: white;
-  text-decoration: underline;
-}
 
 .TopBanner{
     position: relative;
     font-size: 65px;
-    color: white;
+    color: white;                       /* adding the color style and other listed attributes for the top banner */
     background-color: #5e4212;
     font-weight: bold;
     text-align: center;
     font-style: italic;
 }
 
-img{  
-    max-height: 100%;  
-    max-width: 100%; 
-    position: absolute;  
-    border-radius: 50%;
-}
 .video{
     position: absolute;
-    left: 250px;
+    left: 250px;                    /* positioning the video at a spcific place*/
 }
 .icons{
     max-height: 100%;  
     max-width: 100%; 
     position: absolute;  
-    border-radius: 50%;
+    border-radius: 50%;                     /* positioning the icons at a spcific place with max dimensions and other attributes*/
     width: 100px;
     height: 100px;
     margin: 20px;
     position: relative;
 
 }
-
-.TopBanner{
-    position: relative;
-    font-size: 65px;
-    color: white;
-    background-color: #5e4212;
-    font-weight: bold;
-    text-align: center;
-    font-style: italic;
-}
-
-/*
-.border1{
-    position: absolute;
-   mix-blend-mode: multiply;
-    border-radius: 100%;
-    top: 100px;
-}
-
-.border2{
-    
-}
-.border3{
-    
-}
-.border4{
-    
-}*/

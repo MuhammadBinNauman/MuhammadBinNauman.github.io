@@ -1,8 +1,7 @@
 body{
 	margin: 0;
 	padding: 0;
-    background-color: #ffbb00;
-    background-image: url(film3.jpg);
+    background-image: url(film3.jpg);          /* adding background image to the page*/
 }
 
 a:link {
@@ -11,20 +10,20 @@ a:link {
 }
 
 a:visited {
-  color: greenyellow;
-  text-decoration: none;
+  color: white;
+  text-decoration: none;                        /* making all hyperlink white and when hovered over the hyperlink becomes underlined*/
 }
 
 a:hover {
   color: white;
-  text-decoration: underline;
+  text-decoration: underline;                   
 }
 .TopBanner{
     position: relative;
     bottom: 65px;
     font-size: 65px;
     color: white;
-    background-color: #5e4212;
+    background-color: #5e4212;                      /* adding the specfic color and properties to the top header of the site*/
     font-weight: bold;
     text-align: center;
     font-style: italic;
@@ -35,10 +34,10 @@ a:hover {
     text-align: center;
     top: 50px;
 	font-size: 50px;
-	color: red;
+	color: red;                                        /* adding the proper alignment and attributes to the start film hyperlink*/
     font-style: normal;
     font-weight: bold;
-    background-image: url(Film%20icon.png);
+/*    //background-image: url(Film%20icon.png);*/
     background-repeat: no-repeat;
     background-position: center;
     
@@ -48,11 +47,11 @@ a:hover {
     position: absolute;
     top: 400px;
     left: 200px;
-    text-align: left;
+    text-align: left;                                   /* doing the same as above but for the comic hyperlink*/
     font-size: 55px;
     color: white;
     font-weight: bold; 
-    background-image: url(comic.jpg);
+/*    //background-image: url(comic.jpg);*/
     background-repeat: no-repeat;
     background-position: center;
     background-size: auto;
@@ -64,9 +63,9 @@ a:hover {
     right: 200px;
     text-align: right;
     font-size: 55px;
-    color: white;
+    color: white;                                           /* doing the same as above but for the collab hyperlink*/
     font-weight: bold;
-    background-image: url(Collaboration%20home.jpg);
+/*    //background-image: url(Collaboration%20home.jpg);*/
     background-repeat: no-repeat;
     background-position: right;
     background-size: 400px,400px;
@@ -75,7 +74,7 @@ a:hover {
 .About{
     position: relative;
     top: 425px;
-    text-align: center;
+    text-align: center;                                     /* doing the same as above but for the about hyperlink*/
     font-size: 55px;
     color: white;
     font-weight: bold;

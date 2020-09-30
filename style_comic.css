@@ -1,13 +1,13 @@
 body{
 	margin: 0;
 	padding: 0;
-    background-color: #ffbb00;
+    background-color: #ffbb00;      /* adding the backgroung color of the page*/
 }
 
 .TopBanner{
     position: relative;
     font-size: 65px;
-    color: white;
+    color: white;                       /*adding color and other attributes to the banner at the top */
     background-color: #5e4212;
     font-weight: bold;
     text-align: center;
@@ -19,14 +19,14 @@ img{
 }
 
 img:hover { 
-  outline: 3px solid black; 
+  outline: 3px solid black;         /*when the mouse hovers over the image highlight it by making its borders pronounced */
 } 
 
 .title{
     position: absolute;
     font-size: 40px;
     color: black;
-    text-decoration: underline;
+    text-decoration: underline;             /* positing the title with attributes*/
     font-family: sans-serif;
     left: 250px;
 }
@@ -35,7 +35,7 @@ img:hover {
     position: absolute;
     font-size: 40px;
     color: black;
-    text-decoration: underline;
+    text-decoration: underline;             /* positioning the subtitle with attributes*/
     font-family: sans-serif;
     left: 250px;
     top: 500px;
@@ -48,7 +48,7 @@ img:hover {
     max-width: 100%; 
     position: absolute;  
     top: 0;  
-    bottom: 0;  
+    bottom: 0;                              /* positioning the icons at a spcific place with max dimensions and other attributes*/
     left: 0;  
     right: 0;  
     margin: auto;
@@ -61,26 +61,26 @@ img:hover {
 }
 
 .placeholder{
-    display: none;
+    display: none;                              /* position of the images and having them be not rendered when the page is opened*/
     position: absolute;
     left: 250px;
     top: 250px;
 }
 
 .placeholder2{
-    display: none;
+    display: none;                              /* same as above*/
     position: absolute;
     left: 250px;
     top: 600px;
 }
 .myarrow{
     position: absolute;
-    left: 250px;
+    left: 250px;                                   /*   positioning for the arrow  */
     top: 250px;
 }
 
 .myarrow2{
     position: absolute;
-    left: 250px;
+    left: 250px;                                /*  same as above*/
     top: 600px;
 }

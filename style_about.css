@@ -1,7 +1,7 @@
 body{
 	margin: 0;
 	padding: 0;
-    background-color: #ffbb00;
+    background-color: #ffbb00;      /*add the background color of the page */
 }
 
 
@@ -9,7 +9,7 @@ body{
     position: relative;
     font-size: 65px;
     color: white;
-    background-color: #5e4212;
+    background-color: #5e4212;              /*adding color and other attributes to the banner at the top */
     font-weight: bold;
     text-align: center;
     font-style: italic;
@@ -18,7 +18,7 @@ body{
 img{  
 }
 img:hover { 
-  outline: 3px solid black; 
+  outline: 3px solid black;                 /*when the mouse hovers over the image highlight it by making its borders pronounced */
 } 
 
     
@@ -29,7 +29,7 @@ img:hover {
     top: 0;  
     bottom: 0;  
     left: 0;  
-    right: 0;  
+    right: 0;                               /* positioning the icons at a spcific place with max dimensions and other attributes*/
     margin: auto;
     width: 100px;
     height: 100px;
@@ -44,7 +44,7 @@ img:hover {
     left: 650px;
     text-align: center;
     font-size: 50px;
-    text-decoration: underline;
+    text-decoration: underline;             /* positioning of the title text and the attributes */
     color: floralwhite;
     font-family: sans-serif;
 }
@@ -54,7 +54,7 @@ img:hover {
     left: 250px;
     top: 300px;
     text-align: left;
-    font-size: 20px;
+    font-size: 20px;                    /* positioning for the main text and other attributes*/
     color: floralwhite;
     width: 700px;
     font-family: sans-serif;
@@ -65,7 +65,7 @@ img:hover {
     position: absolute;
     right: 100px;
     top: 700px;
-    text-align: left;
+    text-align: left;               /*same as above */
     font-size: 20px;
     color: floralwhite;
     width: 700px;
@@ -73,14 +73,14 @@ img:hover {
 }
 
 .photo1{
-    position: absolute;
+    position: absolute;             /* positioing for the image */
     right: 100px;
     top: 250px;
     
 }
 .photo2{
     position: absolute;
-    left: 250px;
+    left: 250px;                /* same as above*/
     top: 700px;
     
 }

@@ -1,14 +1,14 @@
 body{
 	margin: 0;
 	padding: 0;
-    background-color: #ffbb00;
+    background-color: #ffbb00;          /*adding the background color  */
 }
 
 .TopBanner{
     position: relative;
     font-size: 65px;
     color: white;
-    background-color: #5e4212;
+    background-color: #5e4212;          /*adding color and other attributes to the banner at the top */
     font-weight: bold;
     text-align: center;
     font-style: italic;
@@ -16,12 +16,12 @@ body{
 
 img{
     
-    border-radius: 50%;
+    border-radius: 50%;                 /* images will be circles*/
 }
 
 
 img:hover { 
-  outline: 3px solid black; 
+  outline: 3px solid black;             /*when the mouse hovers over the image highlight it by making its borders pronounced */
 } 
     
 .icons{
@@ -32,7 +32,7 @@ img:hover {
     bottom: 0;  
     left: 0;  
     right: 0;  
-    margin: auto;
+    margin: auto;                           /* positioning the icons at a spcific place with max dimensions and other attributes*/
     border-radius: 50%;
     width: 100px;
     height: 100px;
@@ -49,7 +49,7 @@ img:hover {
     top: 450px;
     text-align: center;
     color: white;
-    background-color: firebrick;
+    background-color: firebrick;            /* making the text banner a specific color with other attributes*/
     width: 200px;
     height: 500px;
 }
@@ -58,13 +58,13 @@ img:hover {
     position: absolute;
     right: 1200px;
     top: 220px;
-    background-color: firebrick;
+    background-color: firebrick;        /* position and color of the circle */
     margin: auto;
 }
 .decor{
     position: absolute;
     mix-blend-mode: multiply;
-    transform: rotate(180deg);
+    transform: rotate(180deg);          /* positioning the decor at the right place while also changing its rotation*/
     right: 1190px;
     top: 200px;
     margin: auto;
@@ -77,7 +77,7 @@ img:hover {
     text-decoration: underline;
     text-align: center;
     font-weight: bold;
-    font-size: 18.25; 
+    font-size: 18.25;                       /* positioning the title that will have the name of the collaborators and other attributes */
     right: 1200px;
     top: 400px;
     color: white;
@@ -90,7 +90,7 @@ img:hover {
     right: 900px;
     top: 450px;
     text-align: center;
-    color: white;
+    color: white;                               /* doing the same as above for the other banners*/
     background-color: firebrick;
     width: 200px;
     height: 500px;
