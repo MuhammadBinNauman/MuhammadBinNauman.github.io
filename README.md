@@ -23,23 +23,38 @@ Simple and clean. you would know where everything is and what is being featured
 ### Implementing The Concept
 
 ##### Code
+Most of the coding done was lernt from the teachings of the professor. some extra concepts were learnt form W3School and links provided by the professor 
 
 ##### Links
 
+I decided to make the website accessable form navigational icons that would let the user visit other parts of the site
+
 ##### Video
+
+The Video was taken from the CommLabs Website 
 
 ##### User Interaction
 
+For the special user interaction I decided to make the comics appear when the user clicks on the arrow  
+
 ##### Images
+
+All the Images are from google Images
 
 ##### Info Banners
 
-most of the images were 
+For the info banner I decided on making 4 elements that would toghether make the entire banner. it would consist of picture of the people who worked on the project, name title, info text of each person and some decor for the picture. but you may see place holder images as respect for people keeping privacy on the picture
 
 ### Reflections and Evaluations
 
-##### Did it lived to The Expectation I Had
+##### Did it live to The Expectation I Had
+
+I think almost everthing that I thought of how the website would look like has come to be
 
 ##### What Made The Cut and What Did Not
 
+I thought of some cool interactive and decor elements but my lack of understanding of JavaScripts stopped it from being implemented
+
 ##### Problems
+
+The only major problem I had was with positioning. but I am certain with practice I will get the gist of it
