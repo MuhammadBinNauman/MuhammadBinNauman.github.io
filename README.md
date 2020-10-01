@@ -20,3 +20,26 @@ The theme of the website would be simple images on top of a simple yellow backgr
 Simple and clean. you would know where everything is and what is being featured
 
 
+### Implementing The Concept
+
+##### Code
+
+##### Links
+
+##### Video
+
+##### User Interaction
+
+##### Images
+
+##### Info Banners
+
+most of the images were 
+
+### Reflections and Evaluations
+
+##### Did it lived to The Expectation I Had
+
+##### What Made The Cut and What Did Not
+
+##### Problems
